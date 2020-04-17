@@ -7,9 +7,9 @@ It is more effective to learn by doing, so I pick some task in
 the field that inerest me and try to solve some problems.
 
 Right now I am focusing on __automation__ my __work reports__ and __time expensive tasks__.
-You can see current state of this work __[here]__(https://github.com/PiAlexander/Automation-of-work-reports)
+You can see current state of this work [__here__](https://github.com/PiAlexander/Automation-of-work-reports)
 
 In the near future I have plans to write some __bots__.
-You will see it apparently __[here]__(https://github.com/PiAlexander/bots)
+You will see it apparently [__here__](https://github.com/PiAlexander/bots)
 
 Peace
